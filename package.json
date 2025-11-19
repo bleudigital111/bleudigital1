@@ -2,6 +2,7 @@
   "name": "pagina-de-servicios-mundo-digital-bleu",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bleudigital111.github.io/bleudigital/",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.3",
     "@radix-ui/react-alert-dialog": "^1.1.6",
