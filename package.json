@@ -2,16 +2,19 @@
   "name": "pagina-de-servicios-mundo-digital-bleu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bleudigital111.github.io/bleudigital/",
+  "homepage": "https://bleudigital111.github.io/bleudigital1/",
   "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
+    "class-variance-authority": "^0.7.1",
     "framer-motion": "^12.23.24",
-    "gh-pages": "^6.3.0",
     "lucide-react": "^0.554.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react-swc": "^3.10.2",
+    "gh-pages": "^6.3.0",
     "vite": "^6.3.5"
   },
   "scripts": {

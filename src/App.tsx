@@ -2,7 +2,7 @@ import { Button } from "./components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./components/ui/card";
 import { Globe, CreditCard, Calendar, Box, Video, Smartphone, Mail, Phone, MapPin, ArrowRight, Sparkles, Zap, Target } from "lucide-react";
 import { ImageWithFallback } from './components/figma/ImageWithFallback';
-import { motion } from 'motion/react';
+import { motion } from "framer-motion";
 import { useState, useEffect } from 'react';
 
 export default function App() {
